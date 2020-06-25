@@ -9,6 +9,6 @@ then
 
 then
 
-python3 mordbatch.py
+```python3 mordbatch.py```
 
 It reads files from the data dir, fills in the geo data, and writes to the output dir.
